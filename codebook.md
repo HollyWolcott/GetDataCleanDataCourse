@@ -1,7 +1,6 @@
 ## Codebook
 
-This dataset was derived from "Human Activity Recognition Using Smartphones Dataset - Version 1.0" produced by:
-
+This dataset was derived from "Human Activity Recognition Using Smartphones Dataset - Version 1.0" which was produced by:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
