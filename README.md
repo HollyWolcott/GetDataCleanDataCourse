@@ -1,9 +1,3 @@
----
-title: "Course Project"
-output: html_document
----
-      
-
 ## Course Project
 
 `run_analysis.R` is a script that:

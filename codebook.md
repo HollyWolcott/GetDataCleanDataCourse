@@ -1,9 +1,3 @@
----
-title: "Codebook"
-output: html_document
----
-
-
 ## Codebook
 
 This dataset was derived from "Human Activity Recognition Using Smartphones Dataset - Version 1.0" produced by:
